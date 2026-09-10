@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;color=2EA44F&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=AI+Application+Engineer;Full-Stack+Developer" alt="MAXeaglet" />
+
 
 
 **AI Application Engineer · Full-Stack Developer**
